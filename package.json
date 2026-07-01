@@ -1,7 +1,7 @@
-﻿{
+{
   "name": "discord-bump-selfbot",
   "version": "1.0.0",
-  "description": "Selfbot that bumps Discord servers via /bump every 2 hours, hosted on Vercel",
+  "description": "Selfbot that bumps Discord servers via /bump every 2 hours",
   "main": "api/bump.js",
   "dependencies": {
     "discord.js-selfbot-v13": "^2.14.11"
@@ -11,4 +11,3 @@
   },
   "author": "",
   "license": "MIT"
-}

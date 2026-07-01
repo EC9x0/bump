@@ -1,8 +1,1 @@
-{
-  "crons": [
-    {
-      "path": "/api/bump",
-      "schedule": "0 */2 * * *"
-    }
-  ]
-}
+
